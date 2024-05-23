@@ -25,7 +25,7 @@ writes the transposed notes to an output JSON file. The application uses the j4l
 
 Clone the Repository
 
-* git clone [https://github.com/codeordiehard/note-transposer.git]
+* git clone [git clone git@github.com:CodeOrDieHard/MujahedAlshayib.git]
 * cd note-transposer
 
 **Build the Project**
