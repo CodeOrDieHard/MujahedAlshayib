@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.task.transposeNotes.TransposeNotesApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-22T16:30:58" hostname="Mujaheds-MBP-2" time="0.54">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.task.transposeNotes.TransposeNotesApplicationTests" time="0.54"/>
+  <system-out><![CDATA[20:30:57.486 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.task.transposeNotes.TransposeNotesApplicationTests]: TransposeNotesApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:30:57.577 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.task.transposeNotes.TransposeNotesApplication for test class com.task.transposeNotes.TransposeNotesApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.5)
+
+2024-05-22T20:30:57.809+04:00  INFO 19301 --- [transposeNotes] [    Test worker] c.t.t.TransposeNotesApplicationTests     : Starting TransposeNotesApplicationTests using Java 17.0.8 with PID 19301 (started by mojo in /Users/mojo/Desktop/transposeNotes)
+2024-05-22T20:30:57.810+04:00  INFO 19301 --- [transposeNotes] [    Test worker] c.t.t.TransposeNotesApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2024-05-22T20:30:58.700+04:00  INFO 19301 --- [transposeNotes] [    Test worker] c.t.t.TransposeNotesApplicationTests     : Started TransposeNotesApplicationTests in 1.029 seconds (process running for 1.672)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
