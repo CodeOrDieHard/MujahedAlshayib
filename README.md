@@ -71,7 +71,7 @@ Clone the Repository
 
 **Example Request:**
 
-[curl -X GET "http://localhost:8080/transpose/file?inputFile=inputFile.json&semitone=-3&outputFile=outputFile.json"
+[curl -X GET "http://localhost:8080/transpose/file?inputFile=/Users/mojo/Desktop/inputFile.json&semitone=-3&outputFile=/Users/mojo/Desktop/outputFile.json"
 ]
 
 **Input File Format**
